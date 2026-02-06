@@ -27,3 +27,4 @@ crash.log
 
 # Logs
 *.log
+*.parquet
